@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6cdc6-b24f-4521-ae8a-f69cc1e39875" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula09/Aula09a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09/desafio022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09/desafio023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09/desafio024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09/desafio025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09/desafio026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09/desafio027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula09/Aula09a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula09/Aula09a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Aula09/desafio022.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -61,6 +70,12 @@
     "Python.desafio019.executor": "Run",
     "Python.desafio020.executor": "Run",
     "Python.desafio021.executor": "Run",
+    "Python.desafio022.executor": "Run",
+    "Python.desafio023.executor": "Run",
+    "Python.desafio024.executor": "Run",
+    "Python.desafio025.executor": "Run",
+    "Python.desafio026.executor": "Run",
+    "Python.desafio027.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.teste01.executor": "Run",
@@ -94,8 +109,8 @@
       <recent name="C:\CursoPythonGuanabara\Curso-Python-Mundo1-Guanabara\Aula04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula09a">
-    <configuration name="Aula09a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio027">
+    <configuration name="desafio023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +125,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula09/Aula09a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula09/desafio023.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,13 +143,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula08/desafio018.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula09/desafio024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,13 +167,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula08/desafio019.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula09/desafio025.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,13 +191,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula08/desafio020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula09/desafio026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio027" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,13 +215,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula08/desafio021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula09/desafio027.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,19 +232,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula09a" />
-        <item itemvalue="Python.desafio021" />
-        <item itemvalue="Python.desafio020" />
-        <item itemvalue="Python.desafio019" />
-        <item itemvalue="Python.desafio018" />
+        <item itemvalue="Python.desafio027" />
+        <item itemvalue="Python.desafio026" />
+        <item itemvalue="Python.desafio025" />
+        <item itemvalue="Python.desafio024" />
+        <item itemvalue="Python.desafio023" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
-        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
   </component>
@@ -249,6 +264,8 @@
       <workItem from="1769730243053" duration="137000" />
       <workItem from="1769730446211" duration="7394000" />
       <workItem from="1769807423577" duration="5534000" />
+      <workItem from="1769906562811" duration="170000" />
+      <workItem from="1769906791695" duration="10618000" />
     </task>
     <servers />
   </component>
@@ -258,11 +275,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio021.coverage" NAME="desafio021 Coverage Results" MODIFIED="1769738572669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio015.coverage" NAME="desafio015 Coverage Results" MODIFIED="1769713706493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio024.coverage" NAME="desafio024 Coverage Results" MODIFIED="1769914879637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$aula08b.coverage" NAME="aula08b Coverage Results" MODIFIED="1769718707714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio027.coverage" NAME="desafio027 Coverage Results" MODIFIED="1769917708013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1769547346147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExercicios" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio018.coverage" NAME="desafio018 Coverage Results" MODIFIED="1769735857410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio026.coverage" NAME="desafio026 Coverage Results" MODIFIED="1769916478139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$teste03.coverage" NAME="teste03 Coverage Results" MODIFIED="1769554583606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula04" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$aula07a.coverage" NAME="aula07a Coverage Results" MODIFIED="1769700880082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio023.coverage" NAME="desafio023 Coverage Results" MODIFIED="1769914190287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio017.coverage" NAME="desafio017 Coverage Results" MODIFIED="1769734904182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio006.coverage" NAME="desafio006 Coverage Results" MODIFIED="1769702825837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio012.coverage" NAME="desafio012 Coverage Results" MODIFIED="1769705498516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
@@ -273,13 +294,15 @@
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$teste01.coverage" NAME="teste01 Coverage Results" MODIFIED="1769477811127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula04" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio011.coverage" NAME="desafio011 Coverage Results" MODIFIED="1769711670557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio014.coverage" NAME="desafio014 Coverage Results" MODIFIED="1769712924608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
-    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$Aula09a.coverage" NAME="Aula09a Coverage Results" MODIFIED="1769818550697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$Aula09a.coverage" NAME="Aula09a Coverage Results" MODIFIED="1769908543112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio005.coverage" NAME="desafio005 Coverage Results" MODIFIED="1769701494158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio010.coverage" NAME="desafio010 Coverage Results" MODIFIED="1769704315527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio020.coverage" NAME="desafio020 Coverage Results" MODIFIED="1769738278439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio004.coverage" NAME="desafio004 Coverage Results" MODIFIED="1769556791776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula06" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio019.coverage" NAME="desafio019 Coverage Results" MODIFIED="1769736907644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio013.coverage" NAME="desafio013 Coverage Results" MODIFIED="1769706105888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio022.coverage" NAME="desafio022 Coverage Results" MODIFIED="1769911982796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio025.coverage" NAME="desafio025 Coverage Results" MODIFIED="1769915469643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula09" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$Aula08c.coverage" NAME="Aula08c Coverage Results" MODIFIED="1769730724445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio016.coverage" NAME="desafio016 Coverage Results" MODIFIED="1769731595427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula08" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mundo1_Guanabara$desafio007.coverage" NAME="desafio007 Coverage Results" MODIFIED="1769703219459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula07" />

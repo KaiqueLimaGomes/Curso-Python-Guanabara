@@ -17,5 +17,11 @@ linhas
 
 print(frase.count('o')) #Conta quantos caracteres semelhante o texto possui, Possui diferença em letra ALTA e baixa
 print(frase.upper().count('O')) #Deixa o texto em caixa ALTA e procura todos os 'O'
+print(frase.lower) #Deixa o texto em minisculo
 print(len(frase)) #Conta quantidade de caracteres da string, inclusive espaços vazios antes e depois do texto
 print(frase.strip()) #Remove espaços vazios indesejados antes e depois do texto, não remove o espaço entre palavras
+print(frase.replace('Python', 'Android')) # Subistitui o primeiro valor pelo segundo
+print(frase.find('em'))  #Procura o valor dentro da string, retorna a posição do caracter inicial da busca, case sensitive.
+print(frase.split()) #Cria uma lista separando as palavras por espaço
+dividido = frase.split()
+print(dividido[2] [3]) #Pega o item dois da lista e mostra o terceiro caracter
