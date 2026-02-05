@@ -15,7 +15,7 @@ opcao =int(input('Escolha qual a opção que será a base de conversão'
 if opcao == 1:
     print('O número {} na base binária é {}.'.format(num, bin(10)[2:]))
 elif opcao == 2:
-    print('O número {} na base octal é {}^8.'.format(num, oct(num)))
+    print('O número {} na base octal é {}.'.format(num, oct(num)[2:]))
 elif opcao == 3:
     print('O número {} na base hexadecimal é {}.'.format(num, hex(num)[2:].upper()))
 else:

@@ -4,7 +4,7 @@
 # Até 9 anos: Mirim
 # Até 14 anos: Infantil
 # Até 19 anos: Junior
-# Até 20 anos: Sênior
+# Até 25 anos: Sênior
 # Acima: MASTER
 
 from datetime import date
@@ -18,7 +18,7 @@ elif 9 < ano - idade <= 14:
     print('Sua categoria é INFANTIL')
 elif 14 < ano - idade <= 19:
     print('Sua categoria é JUNIOR')
-elif 19 < ano - idade <=20:
+elif 19 < ano - idade <=25:
     print('Sua categoria é SÊNIOR')
 else:
     print('Sua categoria é MASTER')

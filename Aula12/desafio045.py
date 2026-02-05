@@ -12,7 +12,13 @@ user = str(input('Escolha:'
       '\n Opção: '))
 opcoes = ['Pedra', 'Papel', 'Tesoura']
 pc = random.choice(opcoes)
-
+print('Computador jogou: {}'.format(pc))
+print('Jogador jogou: {}'.format(user))
 if user == pc:
     print('EMPATE! Você escolheu {} e o computador {}'.format(user, pc))
-    
+elif user == 'Pedra' and pc == 'Tesoura' or user == 'Papel' and pc == 'Pedra' or user == 'Tesoura' and pc == 'Papel':
+    print('Você GANHOU!!')
+elif user == 'Pedra' and pc == 'Papel' or user == 'Papel' and pc == 'Tesoura' or user == 'Tesoura' and pc == 'Papel':
+    print('O Computador Ganhou!')
+else:
+    print('Entrada inválida!')

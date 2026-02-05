@@ -17,7 +17,7 @@ if lista[2] < lista[0] + lista[1]:
         print('As medidas são de um triângulo Equilátero.')
     elif reta1 == reta2 or reta1 == reta3 or reta2 == reta3:
         print('As medidas são de um triângulo Isósceles.')
-    elif reta1 !=  reta2 != reta3:
+    elif reta1 !=  reta2 != reta3 != reta1:
         print('As medidas são de um triangulo Escaleno.')
 else:
     print('Essas medidas NÃO formam um Triângulo!')
