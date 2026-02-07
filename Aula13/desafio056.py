@@ -15,9 +15,10 @@ idadeVelho = 0
 mulheres = 0
 
 for c in range(1,5):
-    nome = str(input('Digite seu nome: '))
-    idade = int(input('Qual sua idade: '))
-    sexo = str(input('Qua seu sexo? Homem (H), Mulher (M): ').upper()[0])
+    print('----- {}ª PESSOA -----'.format(c))
+    nome = str(input('Nome: '))
+    idade = int(input('Idade: '))
+    sexo = str(input('Sexo [M/F]): ').upper()[0])
 
     soma += idade
     media = soma / c
@@ -29,7 +30,7 @@ for c in range(1,5):
     if sexo == 'M' and idade < 20:
         mulheres += 1
 
-print('A  média de idade do grupo é {:.0} anos.'.format(media))
+print('A  média de idade do grupo é {} anos.'.format(media))
 print('O Homem mais velho é o {}, com {} anos.'.format(nomeVelho, idadeVelho))
 
 if mulheres > 0:

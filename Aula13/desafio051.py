@@ -4,7 +4,7 @@
 
 termo = int(input("Digite o primeiro termo: "))
 razao = int(input("Digite a razão: "))
-print(termo, end=',')
-for c in range(0, 10):
-    termo += razao
-    print(termo, end=',')
+final = termo + (10 - 1 ) * razao
+for c in range(termo, final + razao, razao):
+    print(c, end=',')
+print('FIM')

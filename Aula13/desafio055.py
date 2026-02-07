@@ -4,8 +4,8 @@
 
 listaPeso = []
 
-for c in range(0,6):
-    peso = float(input('Digite seu peso: '))
+for c in range(1,7):
+    peso = float(input('Peso da {}º pessoa: '.format(c)))
     listaPeso.append(peso) #Adiciona o input dentro da lista listaPeso
 
 listaPeso.sort() #Organiza a lista de forma crescente

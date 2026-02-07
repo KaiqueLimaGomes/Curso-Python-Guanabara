@@ -9,7 +9,7 @@ maiores = 0
 menores = 0
 
 for c in range(1, 8):
-    nasc = int(input('Digite o ano do seu nascimento: '))
+    nasc = int(input('Ano de nascimento da {}º pessoa: '.format(c)))
     if date.today().year - nasc > 18:
         maiores += 1
     else:
