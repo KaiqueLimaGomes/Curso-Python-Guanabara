@@ -5,7 +5,7 @@
 sexo = ''
 print('Qual o seu sexo?')
 while sexo != 'M' and sexo !='F': #Melhor prática -> while sexo not in ('M', 'F'):
-    sexo = str(input('Sexo [M/F]: ')).upper()
+    sexo = str(input('Sexo [M/F]: ')).upper().strip()[0]
     if sexo != 'M' and sexo !='F':
         print('\033[31m Entrada Inválida, Tente novamente!\033[m')
 print('Ok. proxíma pergunta...')
