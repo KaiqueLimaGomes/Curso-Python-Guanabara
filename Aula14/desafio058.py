@@ -24,7 +24,11 @@ while escolhido != palpite:
     palpite = int(input('Palpite: '))
     cont += 1
     if palpite != escolhido:
-        print('\033[31m Errou... Tente novamente!\033[m')
+        print('\033[31mErrou... Você ta quase lá!\033[m')
+        if palpite < escolhido:
+            print('Mais... Tente mais uma vez.')
+        else:
+            print('Menos... Tente mais uma vez.')
 
 print('\033[42mPARABÉNS, você acertou!\033[m')
 print('O número pensado pelo Computador foi {}.'.format(escolhido))
