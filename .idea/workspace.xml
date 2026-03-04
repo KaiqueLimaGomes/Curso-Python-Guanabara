@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6cdc6-b24f-4521-ae8a-f69cc1e39875" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula10/aula10a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/aula10b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/aula10c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/desafio035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Curso-Python-Mundo1-Guanabara.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/desafio074.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula16/desafio072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula16/desafio073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula16/desafio074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula16/desafio075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula16/desafio076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula16/desafio077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,74 +46,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Aula08c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula09a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula08b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tset.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/CursoPythonGuanabara/Curso-Python-Mundo1-Guanabara/Aula08&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Aula08c.executor": "Run",
+    "Python.Aula09a.executor": "Run",
+    "Python.Desafio009.executor": "Run",
+    "Python.aula07a.executor": "Run",
+    "Python.aula08b.executor": "Run",
+    "Python.aula10b.executor": "Run",
+    "Python.aula10c.executor": "Run",
+    "Python.aula16a.executor": "Run",
+    "Python.desafio003.executor": "Run",
+    "Python.desafio004.executor": "Run",
+    "Python.desafio005.executor": "Run",
+    "Python.desafio006.executor": "Run",
+    "Python.desafio007.executor": "Run",
+    "Python.desafio008.executor": "Run",
+    "Python.desafio010.executor": "Run",
+    "Python.desafio011.executor": "Run",
+    "Python.desafio012.executor": "Run",
+    "Python.desafio013.executor": "Run",
+    "Python.desafio014.executor": "Run",
+    "Python.desafio015.executor": "Run",
+    "Python.desafio016.executor": "Run",
+    "Python.desafio017.executor": "Run",
+    "Python.desafio018.executor": "Run",
+    "Python.desafio019.executor": "Run",
+    "Python.desafio020.executor": "Run",
+    "Python.desafio021.executor": "Run",
+    "Python.desafio022.executor": "Run",
+    "Python.desafio023.executor": "Run",
+    "Python.desafio024.executor": "Run",
+    "Python.desafio025.executor": "Run",
+    "Python.desafio026.executor": "Run",
+    "Python.desafio027.executor": "Run",
+    "Python.desafio028.executor": "Run",
+    "Python.desafio029.executor": "Run",
+    "Python.desafio030.executor": "Run",
+    "Python.desafio031.executor": "Run",
+    "Python.desafio032.executor": "Run",
+    "Python.desafio033.executor": "Run",
+    "Python.desafio034.executor": "Run",
+    "Python.desafio035.executor": "Run",
+    "Python.desafio072.executor": "Run",
+    "Python.desafio073 (1).executor": "Run",
+    "Python.desafio073.executor": "Run",
+    "Python.desafio074.executor": "Run",
+    "Python.desafio075.executor": "Run",
+    "Python.desafio076.executor": "Run",
+    "Python.desafio077.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.teste01.executor": "Run",
+    "Python.teste03.executor": "Run",
+    "Python.tset.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/CursoPythonGuanabara/Curso-Python-Guanabara",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\CursoPythonGuanabara\Curso-Python-Mundo1-Guanabara\Aula08" />
@@ -124,8 +131,8 @@
       <recent name="C:\CursoPythonGuanabara\Curso-Python-Mundo1-Guanabara\Aula04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tset">
-    <configuration name="desafio029" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio077">
+    <configuration name="desafio072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,13 +141,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula10" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (Curso-Python-Mundo1-Guanabara)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula10/desafio029.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio072.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio073 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +165,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula10" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (Curso-Python-Mundo1-Guanabara)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula10/desafio031.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio073.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,13 +189,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula10" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula10/desafio032.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio075.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,13 +212,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula10" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula10/desafio035.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio076.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,13 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula10" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula10/tset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio077.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,18 +251,17 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tset" />
-        <item itemvalue="Python.desafio032" />
-        <item itemvalue="Python.desafio031" />
-        <item itemvalue="Python.desafio029" />
-        <item itemvalue="Python.desafio035" />
+        <item itemvalue="Python.desafio077" />
+        <item itemvalue="Python.desafio076" />
+        <item itemvalue="Python.desafio075" />
+        <item itemvalue="Python.desafio072" />
+        <item itemvalue="Python.desafio073 (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
         <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
