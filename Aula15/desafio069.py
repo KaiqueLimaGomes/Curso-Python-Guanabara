@@ -6,7 +6,6 @@
 # B) Quantos homens foram cadastrados.
 # C) Quantas mulheres tem menos de 20 anos.
 
-continuar = ' '
 maioridade = 0
 homens = 0
 mulher = 0
@@ -29,6 +28,7 @@ while True:
     if sexo in 'Ff' and idade <= 20:
         mulher += 1
 
+    continuar = ' '
     while continuar not in 'SN':
         continuar = str(input('Quer conitnuar? [S/N] ')).strip().upper()[0]
     if continuar == 'N':

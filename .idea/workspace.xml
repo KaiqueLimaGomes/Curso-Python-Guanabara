@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6cdc6-b24f-4521-ae8a-f69cc1e39875" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Curso-Python-Mundo1-Guanabara.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/desafio074.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula16/desafio072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula16/desafio073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula16/desafio074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula16/desafio075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula16/desafio076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula16/desafio077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/aula17a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/aula17b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/aula17c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/desafio078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/desafio079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/desafio080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/desafio081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula17/desafio082.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula15/desafio069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula15/desafio069.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,8 @@
     "Python.aula10b.executor": "Run",
     "Python.aula10c.executor": "Run",
     "Python.aula16a.executor": "Run",
+    "Python.aula17b.executor": "Run",
+    "Python.aula17c.executor": "Run",
     "Python.desafio003.executor": "Run",
     "Python.desafio004.executor": "Run",
     "Python.desafio005.executor": "Run",
@@ -89,6 +91,8 @@
     "Python.desafio033.executor": "Run",
     "Python.desafio034.executor": "Run",
     "Python.desafio035.executor": "Run",
+    "Python.desafio069.executor": "Run",
+    "Python.desafio070.executor": "Run",
     "Python.desafio072.executor": "Run",
     "Python.desafio073 (1).executor": "Run",
     "Python.desafio073.executor": "Run",
@@ -96,6 +100,11 @@
     "Python.desafio075.executor": "Run",
     "Python.desafio076.executor": "Run",
     "Python.desafio077.executor": "Run",
+    "Python.desafio078.executor": "Run",
+    "Python.desafio079.executor": "Run",
+    "Python.desafio080.executor": "Run",
+    "Python.desafio081.executor": "Run",
+    "Python.desafio082.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.teste01.executor": "Run",
@@ -131,8 +140,8 @@
       <recent name="C:\CursoPythonGuanabara\Curso-Python-Mundo1-Guanabara\Aula04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio077">
-    <configuration name="desafio072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio082">
+    <configuration name="desafio070" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,13 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (Curso-Python-Mundo1-Guanabara)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula15" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio072.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula15/desafio070.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio073 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (Curso-Python-Mundo1-Guanabara)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula17" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio073.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula17/desafio079.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,12 +196,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula17" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio075.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula17/desafio080.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio081" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,12 +219,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula17" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio076.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula17/desafio081.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio082" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-Python-Mundo1-Guanabara" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,12 +242,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula17" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula16/desafio077.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula17/desafio082.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio077" />
-        <item itemvalue="Python.desafio076" />
-        <item itemvalue="Python.desafio075" />
-        <item itemvalue="Python.desafio072" />
-        <item itemvalue="Python.desafio073 (1)" />
+        <item itemvalue="Python.desafio082" />
+        <item itemvalue="Python.desafio081" />
+        <item itemvalue="Python.desafio080" />
+        <item itemvalue="Python.desafio079" />
+        <item itemvalue="Python.desafio070" />
       </list>
     </recent_temporary>
   </component>
