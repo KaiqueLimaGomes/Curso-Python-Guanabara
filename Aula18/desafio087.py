@@ -27,7 +27,8 @@ for linha in range(0,3):
 print(f'O valor dos números digitados é {total}.')
 
 # B) A soma dos valores da terceira coluna
-terceira = matriz[0][2] + matriz[1][2] + matriz[2][2]
+for l in range(0,3):
+    terceira += matriz[l][2]
 print(f'A soma dos valores da terceira coluna é {terceira}.')
 
 # C) O maior valor da segunda linha

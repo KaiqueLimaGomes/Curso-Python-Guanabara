@@ -4,17 +4,13 @@
 # e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 
 boletim = []
-aluno = []
 
 while True:
     nome = str(input('Nome: '))
-    aluno.append(nome)
     nota1 = float(input('Nota 1: '))
-    aluno.append(nota1)
     nota2 = float(input('Nota 2: '))
-    aluno.append(nota2)
-    boletim.append(aluno[:])
-    aluno.clear()
+    media = (nota1 + nota2 ) / 2
+    boletim.append( [nome, [nota1, nota2], media] )
 
     opcao = ' '
     while opcao not in 'SN':
@@ -24,8 +20,16 @@ while True:
         break
 
 print('**'*30)
-print('No.  Nome    Média')
-for pos, aluno in enumerate(boletim):
-    print(f'{pos}')
-    for nota in boletim[]:
-        print(f'{boletim[nota]}')
+print(f'{"No.":<4}{"NOME":<10}{"MÉDIA":>8}')
+print('**'*30)
+for i, a in enumerate(boletim):
+    print(f'{i:<4}{a[0]:<10}{a[2]:>8.1f}')
+while True:
+    print('-' * 30)
+    opc = int(input('Mostrar notas de qual aluno? (999 interrompe) '))
+    if opc == 999:
+        print('FINALIZANDO...')
+        break
+    if opc <= len(boletim) - 1:
+        print(f'Notas de {boletim[opc][0]} são {boletim[opc][1]}')
+print('<<< VOLTE SEMPRE >>>')

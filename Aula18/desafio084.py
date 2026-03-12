@@ -7,14 +7,22 @@
 
 dado = list()
 pessoas = list()
-total = 0
+maior = menor = 0
 
 while True:
     dado.append(str(input('Nome: ')))
     dado.append(float(input('Peso: ')))
+
+    if len(pessoas) == 0: #Se a lista estiver vazia ele já vai definir a primeira entrada como maior e menor
+        maior = menor = dado[1]
+    else:
+        if dado[1] > maior:
+            maior = dado[1]
+        if dado[1] < menor:
+            menor = dado[1]
+
     pessoas.append(dado[:])
     dado.clear()
-    total += 1
 
     continuar = ' '
     while continuar not in 'SN':
@@ -22,9 +30,19 @@ while True:
     if continuar == 'N':
         break
 
-print(f'No total você cadastrou {total} pessoas.')
-print('As pessoas acima de 100Kg foram: ', end='')
-for p in pessoas:
+# A) Quantas pessoas foram cadastradas.
+print(f'No total você cadastrou {len(pessoas)} pessoas.')
 
-    if p[1] >= 100:
-        print(p[0])
+# B) Uma listagem com as pessoas mais pesadas.
+print(f'O manior peso foi de {maior}Kg. Peso de ', end='')
+for p in pessoas:
+    if p[1] == maior:
+        print(f'[{p[0]}] ', end='')
+print()
+
+# C) Uma listagem com as pessoas mais leves.
+print(f'O menor peso foi de {menor}Kg. Peso de ', end='')
+for p in pessoas:
+    if p[1] == menor:
+        print(f'[{p[0]}] ', end='')
+print()
